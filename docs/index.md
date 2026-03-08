@@ -1,1 +1,1 @@
-- [sttd-blogプロジェクトの紹介](1.md)
+- [sttd-blogプロジェクトの紹介](1/index.md)
